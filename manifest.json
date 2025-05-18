@@ -80,7 +80,13 @@
 			"matches": ["https://syncdex.nikurasu.org/?for=*"],
 			"js": ["dist/SimpleNotification.js", "external/SyncDex_Token.js"],
 			"css": ["dist/SimpleNotification.min.css"]
+		},
+		{
+			  "matches": ["https://*.mangapark.net/*"],
+			  "js":     ["dist/SimpleNotification.js", "SyncDex_MangaPark.js"],
+			  "css":    ["dist/SimpleNotification.min.css", "css/SyncDex.css"]
 		}
+
 	],
 	"browser_action": {
 		"default_icon": {
