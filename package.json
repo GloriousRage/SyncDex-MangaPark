@@ -40,7 +40,8 @@
 		"anilist",
 		"kitsu",
 		"animeplanet",
-		"mangaupdates"
+		"mangaupdates",
+		"MangaPark"
 	],
 	"author": "Glagan",
 	"license": "MPL-2.0",
