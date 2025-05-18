@@ -1,3 +1,5 @@
+Fork for trying to use SyncDex to Mangapark following the PUNGE
+
 # SyncDex
 
 **SyncDex** update your manga list on many Services when you read on [MangaDex](https://mangadex.org/).  
