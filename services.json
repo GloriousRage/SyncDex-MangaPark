@@ -86,5 +86,16 @@
 			"light": { "font": "rgb(82, 102, 124)", "background": "rgb(240, 243, 247)" },
 			"dark": { "font": "#a5acb3", "background": "$grey-70" }
 		}
-	}
+	},
+	{
+  "name": "MangaPark",
+  "key": "mp",                // unique two-letter key
+  "activable": true,          // user can turn it on/off
+  "hasImport": true,          // import your “follows” from MP
+  "hasExport": true,          // push MD follows to MP
+  "theme": {
+    "light":  { "font": "#ffffff", "background": "#222222" },
+    "dark":   { "font": "#cccccc", "background": "#111111" }
+  }
+}	
 ]
